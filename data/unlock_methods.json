@@ -1,0 +1,5 @@
+{
+    "screen_lock": "ADB command or factory reset",
+    "frp_lock": "FRP bypass method (depends on brand)",
+    "carrier_lock": "Official unlock codes"
+}

@@ -1,0 +1,14 @@
+{
+    "Samsung Galaxy A12": {
+        "os": "Android 11",
+        "common_issues": ["Battery drain", "FRP lock"]
+    },
+    "iPhone 12": {
+        "os": "iOS 15",
+        "common_issues": ["iCloud lock", "Overheating"]
+    },
+    "Tecno Spark 7": {
+        "os": "Android 10",
+        "common_issues": ["Bootloop", "Slow performance"]
+    }
+}
